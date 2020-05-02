@@ -4,5 +4,7 @@ public class NewFile {
 
 	public void newfile() {
 	System.out.println("this is the new class added");
+	System.out.println("this is the new word added");
+
 	}
 }
